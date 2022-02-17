@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anshul
-- 👀 I’m interested in Deep Learning and web Development.
-- 🌱 I’m currently learning Deep Learning, HTML,CSS, JavaScript.
+- 👀 I’m interested in Machine Learning, Deep Learning and web Development.
+- 🌱 I’m currently learning Artificial Intelligence, Deep Learning, HTML,CSS, JavaScript.
 - 📫 How to reach me - Mail:- anshul10anshul10@gmail.com
 
 <!---
